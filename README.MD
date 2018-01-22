@@ -159,7 +159,9 @@ ls -R
 ```
 
 ## Summary
+
 |Command	| Description|
+|---|---|
 |echo output-here |	Print what is typed next to this command.|
 |pwd	| Print the current working directory.|
 |cat file-name.extension	| Print the contents of a file.|
