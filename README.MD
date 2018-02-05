@@ -105,3 +105,38 @@ cat file-a > file-b
 cat chorus.txt >> cardigan.txt
 ```
 - If we want to keep the content, like before, we use the ``>>``
+```
+$ cat cardigan
+Vintage tee, brand new phone
+High heels on cobblestone
+And when I felt like I was an old cardigan
+Under someone's bed
+You put me on and said I was your favorite
+```
+### Move directories & files - mv
+```
+mv cardigan.txt albums/folklore/
+```
+### Renaming
+```
+mv albums discography
+```
+- the difference between moving is renaming is
+- If the second argument of ``mv`` is neither a file nor a directory, the first argument is renamed to that
+
+### Removing Directories & Files
+- For files, we can use the ``rm`` command
+```
+rm exile.txt
+```
+- For removing directories, we can use the ``rmdir`` command
+```
+rmdir folklore/
+```
+- However the ``rmdir` command only removes empty directories
+- To remove a non-empty directory, we'll need to use the ``rm`` command with a special ``-r`` flag
+  
+```
+rm -r folklore
+```
+
