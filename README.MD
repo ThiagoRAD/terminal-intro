@@ -82,3 +82,9 @@ mkdir new-directory-name
 ```
 touch filename.txt
 ```
+
+### Write to a file 
+- The command echo, prints out to the console, but it's possible to add content to a file
+```
+echo "Vintage tee, brand new phone" > cardigan.txt
+```
