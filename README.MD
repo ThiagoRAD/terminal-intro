@@ -33,3 +33,8 @@ pwd
 cd ../..
 /Users
 ```
+### Viewing file content
+```
+cat filename.extension
+```
+* the `echo` command can also be used for viewing file content, but the `cat` command is more commonly used
