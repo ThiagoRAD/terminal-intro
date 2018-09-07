@@ -38,3 +38,27 @@ cd ../..
 cat filename.extension
 ```
 * the `echo` command can also be used for viewing file content, but the `cat` command is more commonly used
+
+#### Practice
+- You could use the directory provided here or check items in your own computer
+- If you are using windows, I would suggest trying to use WSL
+```
+house/
+  ├── bathroom/
+  │     └── medicine-cabinet/
+  │           └── items.txt
+  |── bedroom/
+  │     └── closet/
+  │           └── items.txt
+  ├── dining-room/
+  │     └── cabinet/
+  |           └── items.txt
+  ├── kitchen/
+  │     ├── fridge/
+  │     │     └── items.txt
+  │     └── pantry/
+  │           └── items.txt
+  └── living-room/
+        └── shelf/
+              └── books.txt
+```
