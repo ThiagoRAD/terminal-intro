@@ -73,7 +73,12 @@ clear
 - keyboard's ↑ and ↓ arrow keys to navigate through previous commands
 - tab for completing names of commands or existing files/directories
 
-### Make directoryu mkdir
+### Make directory - mkdir
 ```
 mkdir new-directory-name
+```
+
+### Create New File - touch
+```
+touch filename.txt
 ```
