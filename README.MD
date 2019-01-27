@@ -27,3 +27,9 @@ cd ..
 /Users/youruser
 ```
 * using the ```..``` double period moves us back in our filesystem
+```
+pwd
+/Users/youruser/somefolder
+cd ../..
+/Users
+```
