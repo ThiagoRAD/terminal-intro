@@ -158,7 +158,7 @@ cp -r taylor-swift-playlist playlist-copy
 ls -R
 ```
 
-## Summary
+## Cheat Sheet
 
 |Command	| Description|
 |---|---|
@@ -171,3 +171,9 @@ ls -R
 |cd directory-name/sub-directory-name	| Change forward on multiple directories.|
 |cd ../..	| Change backward on multiple directories.|
 |clear | Clear the command line screen.|
+
+| Shortcut | Description |
+|---|---|
+|tab	|Complete the name of an existing file or directory being typed.|
+|↑/↓	|Retype commands that were previously written.|
+|command + k	|Clear the command line screen.|
