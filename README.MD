@@ -10,3 +10,20 @@ echo Hello!
 pwd
 ```
 
+### Change directory: cd
+```
+cd directory-name
+```
+
+### List content: ls
+```
+ls
+```
+### Traversing the file system
+```
+pwd
+/Users/youruser/somefolder
+cd ..
+/Users/youruser
+```
+* using the ```..``` double period moves us back in our filesystem
