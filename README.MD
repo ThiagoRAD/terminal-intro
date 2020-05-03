@@ -1,25 +1,25 @@
 ## Some commands
 
-### Print something to the terminal: echo
+### Print something to the terminal - echo
 ```
 echo Hello!
 ```
 
-### Print working directory: pwd
+### Print working directory - pwd
 ```
 pwd
 ```
 
-### Change directory: cd
+### Change directory - cd
 ```
 cd directory-name
 ```
 
-### List content: ls
+### List content - ls
 ```
 ls
 ```
-### Traversing the file system
+### Traversing the file system - cd
 ```
 pwd
 /Users/youruser/somefolder
@@ -33,7 +33,7 @@ pwd
 cd ../..
 /Users
 ```
-### Viewing file content
+### Viewing file content - cat
 ```
 cat filename.extension
 ```
@@ -63,7 +63,7 @@ house/
               └── books.txt
 ```
 
-### Clearing the command line
+### Clearing the command line - clear
 ```
 clear
 ```
