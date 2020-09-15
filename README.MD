@@ -1,7 +1,12 @@
-### Some commands
+## Some commands
 
-- echo
-  - prints something to the terminal
+### Print something to the terminal: echo
 ```
 echo Hello!
 ```
+
+### Print working directory: pwd
+```
+pwd
+```
+
