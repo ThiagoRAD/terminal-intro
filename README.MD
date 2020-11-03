@@ -72,3 +72,8 @@ clear
 
 - keyboard's ↑ and ↓ arrow keys to navigate through previous commands
 - tab for completing names of commands or existing files/directories
+
+### Make directoryu mkdir
+```
+mkdir new-directory-name
+```
