@@ -88,3 +88,12 @@ touch filename.txt
 ```
 echo "Vintage tee, brand new phone" > cardigan.txt
 ```
+- then you can even use the cat command to check the file content
+```
+cat cardigan.txt
+```
+- The ``>`` will overwrite any existing data, if we want to add content to a file, we use ``>>``
+```
+echo "High heels on cobblestone" >> cardigan.txt
+```
+
