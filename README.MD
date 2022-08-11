@@ -153,3 +153,8 @@ cp file-a file-b
 cp -r taylor-swift-playlist playlist-copy
 ```
 
+### List everything under a directory
+```
+ls -R
+```
+
