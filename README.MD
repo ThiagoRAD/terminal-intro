@@ -62,3 +62,13 @@ house/
         └── shelf/
               └── books.txt
 ```
+
+### Clearing the command line
+```
+clear
+```
+
+### Shortcuts
+
+- keyboard's ↑ and ↓ arrow keys to navigate through previous commands
+- tab for completing names of commands or existing files/directories
