@@ -96,4 +96,12 @@ cat cardigan.txt
 ```
 echo "High heels on cobblestone" >> cardigan.txt
 ```
-
+### Combine Files
+```
+cat file-a > file-b
+```
+- The command above will pick up the information at file-a and overwrite file-b with it
+```
+cat chorus.txt >> cardigan.txt
+```
+- If we want to keep the content, like before, we use the ``>>``
