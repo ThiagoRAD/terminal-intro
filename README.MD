@@ -158,3 +158,14 @@ cp -r taylor-swift-playlist playlist-copy
 ls -R
 ```
 
+## Summary
+|Command	| Description|
+|echo output-here |	Print what is typed next to this command.|
+|pwd	| Print the current working directory.|
+|cat file-name.extension	| Print the contents of a file.|
+|ls	| List the contents of the current directory.|
+|cd directory-name |	Change into an existing directory.|
+|cd ..	| Change backward into an existing directory.|
+|cd directory-name/sub-directory-name	| Change forward on multiple directories.|
+|cd ../..	| Change backward on multiple directories.|
+|clear | Clear the command line screen.|
