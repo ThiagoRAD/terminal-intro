@@ -135,8 +135,21 @@ rmdir folklore/
 ```
 - However the ``rmdir` command only removes empty directories
 - To remove a non-empty directory, we'll need to use the ``rm`` command with a special ``-r`` flag
+- ``-r`` stand for "recursively"
   
 ```
 rm -r folklore
+```
+### Copy Files - cp
+```
+cp file-a file-b
+```
+- The copy will overwrite the file-b, if it exists, so it is similar to
+- ``cat file-a > file-b``
+- But it creates the file if it does not exists
+
+### Copy Directories - cp -r
+```
+cp -r taylor-swift-playlist playlist-copy
 ```
 
